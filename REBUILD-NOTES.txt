@@ -1,0 +1,21 @@
+HARI KRISHNA K — PORTFOLIO REBUILD
+
+Upload the contents of this folder to the root of the GitHub Pages repository. Do not upload the containing folder as an extra nested directory.
+
+Design changes:
+- Dark navy corporate palette retained, with teal, blue, gold, violet, coral and lime accents.
+- Responsive side-by-side cards, animated reveal transitions, subtle hover states and sticky navigation.
+- Founder/CEO/Director positioning and 18+ years wording applied.
+- Participant and training-session counters removed.
+- Expertise grouped into capability categories; career descriptions shortened.
+- Business email set to vaishnora.consulting@gmail.com.
+- Existing portrait retained.
+
+IMPORTANT FACT CHECKS BEFORE PUBLICATION:
+1. Confirm that 18+ years is accurate based on your career start date.
+2. Verify job titles, dates, certifications and issuing bodies.
+3. Confirm your formal company designation. If the legal designation is Director, use “Founder & CEO | Director” or “Founder & Chief Executive Officer; Director”.
+4. Confirm permission and accuracy for all client/institution names and engagement descriptions. Distinguish direct clients, partner-led assignments and prospective partnerships.
+5. This is a static GitHub Pages portfolio; no form backend was added. Contact links use email and LinkedIn.
+
+Files: index.html (main redesigned page), hari-krishna.jpg and ceo.jpeg (existing images), academic-institutions-protected.html (source page with experience wording updated), academic-institutions.html (redirect to the relevant section).

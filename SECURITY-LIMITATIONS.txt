@@ -1,0 +1,5 @@
+BROWSER COPY-DETERRENT NOTES
+
+Basic deterrents have been added for right-click, selection, copy/cut/paste, common save/print/view-source shortcuts, image dragging, and common DevTools shortcuts.
+
+LIMITATION: These are not security controls. Public GitHub Pages files can still be downloaded from the repository or accessed through browser tools. Screenshots and OCR also remain possible. Do not publish confidential information on a public site.
