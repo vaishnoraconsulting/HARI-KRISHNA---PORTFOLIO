@@ -1,0 +1,8 @@
+BROWSER COPY-DETERRENT NOTES
+
+The portfolio includes limited deterrents for casual image dragging, image context menus, and common save/source shortcuts. Normal text selection and copying remain available.
+
+These are NOT security controls and cannot prevent screenshots, OCR, browser developer tools, direct asset downloads, or retrieval from a public GitHub repository. They do not protect the site from hacking.
+
+For real protection, secure GitHub and domain accounts with MFA, protect repository write access, and deploy security headers/WAF at a host or CDN that supports them. GitHub Pages does not apply the included _headers file; see SECURITY-CONFIGURATION.md. Do not publish secrets or confidential data.
+\nCEO portrait protection: the profile image has browser-level deterrents (disabled drag, right-click on image, and selection). These are deterrents only. Anyone who can view the public website can still save the image through browser developer tools, network requests, screenshots, or other capture methods. Do not publish an image unless you accept that it can be copied.\n
